@@ -1,0 +1,14 @@
+{
+  "name": "primeiroapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-packager": "^7.5.1"
+  }
+}
